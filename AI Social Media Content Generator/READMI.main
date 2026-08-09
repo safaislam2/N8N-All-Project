@@ -1,0 +1,40 @@
+This project is an AI-powered automation system built with n8n that generates and publishes social media content automatically.
+
+When a user submits a form, the system:
+
+Extracts user input
+Uses AI to generate engaging content
+Automatically posts the content across multiple social media platforms
+
+This helps save time and ensures consistent, high-quality content creation.
+
+⚙️ Features
+📝 Form-based input system
+🤖 AI content generation (via Gemini/OpenAI)
+📤 Automatic posting system
+🔁 Multi-platform posting support
+⚡ Fully automated workflow using n8n
+🛠️ Tech Stack
+n8n (Automation)
+AI Model (Google Gemini / OpenAI)
+Webhooks / Forms
+Social Media APIs
+📊 Workflow Overview
+User submits form
+Data goes to n8n
+AI generates post content
+Content is sent to multiple social platforms
+Posts are published automatically
+📌 Use Cases
+Personal Branding
+Social Media Agencies
+Content Creators
+SaaS Marketing Automation
+🔮 Future Improvements
+Image generation support
+Hashtag optimization
+Analytics tracking
+Scheduling system
+🤝 Contribution
+
+Feel free to fork this project and improve it 🚀
