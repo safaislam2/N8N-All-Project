@@ -1,0 +1,26 @@
+# 🤖 Customer FAQ AI Bot
+
+An AI-powered Customer FAQ Bot built with **AI Agent, Pinecone Vector Store, and n8n**.
+
+## 📌 Project Overview
+
+This project is designed to answer customer questions using previously stored knowledge and FAQ data.
+
+The AI Agent searches the relevant information from the **Pinecone Vector Store** and generates an answer based on the retrieved data.
+
+The main goal is to provide accurate and reliable answers without allowing the AI to invent information that does not exist in the knowledge base.
+
+## ⚙️ How It Works
+
+```text
+User Question
+      ↓
+    AI Agent
+      ↓
+Pinecone Vector Store
+      ↓
+Relevant Data Retrieval
+      ↓
+AI Agent analyzes the data
+      ↓
+Accurate Customer Answer
