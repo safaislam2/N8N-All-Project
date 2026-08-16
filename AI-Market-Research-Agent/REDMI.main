@@ -1,0 +1,84 @@
+# 🤖 AI Market Research Agent
+
+An AI-powered market research automation built with n8n.
+
+This workflow allows users to submit a business category, search query, location, city, and preferred language through a form. The automation then collects business information, analyzes the available data, generates a professional market research report, and sends the final report via email.
+
+## 🚀 Features
+
+- 📝 Collects research requirements through a form
+- 🔎 Searches for relevant businesses
+- 📍 Supports location and city-based research
+- ⭐ Collects ratings and review information
+- 🌐 Collects website and business information
+- 🤖 Uses AI for market analysis
+- 📊 Performs competitor analysis
+- 💡 Identifies market opportunities and gaps
+- 📑 Generates a structured research report
+- 📧 Automatically sends the report by email
+- 🌍 Supports Bangla and English output
+
+## 🔄 Workflow
+
+Form Submission
+↓
+Business Search
+↓
+Data Collection
+↓
+Data Processing
+↓
+Data Aggregation
+↓
+AI Market Analysis
+↓
+Report Generation
+↓
+Email Delivery
+
+## 🛠️ Technologies
+
+- n8n
+- AI / LLM
+- Google Maps / SerpApi
+- Gmail
+- JavaScript
+- Webhooks / Forms
+
+## 📋 User Inputs
+
+The user can provide:
+
+- Search Query
+- Business Category
+- Location / Country
+- City
+- Preferred Language
+
+## 📊 Generated Report
+
+The AI-generated report can include:
+
+- Research Summary
+- Business Information
+- Competitor Analysis
+- Rating & Review Analysis
+- Strengths & Weaknesses
+- Market Gaps
+- Market Opportunities
+- Actionable Recommendations
+- Final Conclusion
+
+## 🎯 Purpose
+
+The main goal of this project is to automate repetitive market research tasks and turn raw business data into a useful, structured report.
+
+This project was created as part of my journey in learning and building real-world AI automation systems.
+
+## ⚠️ Note
+
+The accuracy of the final report depends on the quality and accuracy of the data returned by the connected search and business-data services.
+
+## 👨‍💻 Built With
+
+Built with n8n, JavaScript, AI, business search APIs, and Gmail automation.
