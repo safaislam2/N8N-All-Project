@@ -1,4 +1,4 @@
-# 🚀 WooCommerce E-Commerce Automation Engine with n8n, AI Agent & Google Sheets
+# 🚀 wordpress E-Commerce Automation Engine with n8n, AI Agent & Google Sheets
 
 An end-to-end, intelligent workflow automation architecture built with **n8n**, **WooCommerce API**, **Google Sheets**, and **Google Gemini AI Agent**. This system automates product lifecycle management, processes order invoices seamlessly from email triggers, and generates beautifully formatted weekly executive sales summary reports in BDT (৳) currency.
 
